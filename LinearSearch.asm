@@ -1,3 +1,4 @@
+	#this program search for the largest value in an array
 	.data
 output: .asciiz "Largest in given array is "
 arr:	.word 10, 3, 45, 90, 12
