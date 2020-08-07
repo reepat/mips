@@ -1,3 +1,4 @@
+#This program subtracts the int value in array b from the int value in array a, and stores them in array c, which is printed
 	.data
 A: .word 10, 5, 6, 15, 17, 19, 25, 30, 12, 56
 B: .word 4, 15, 16, 5, 7, 9, 15, 10, 22, 6
