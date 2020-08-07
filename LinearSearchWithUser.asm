@@ -1,3 +1,4 @@
+#this program asks the user to input a value. If the value is in the array, it will print the index it is found. Else, it will return -1
 .data
 ask: .asciiz "enter number: "
 array: .word 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
